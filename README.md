@@ -1,4 +1,7 @@
-# Setup
+# Vue/Node.js social media web server
+A website for a mock charity company's social media pages, including account sign-up and authentication, posting with file uploading, MySQL database storage and signing up for email notifications
+
+## Setup
 Open a terminal window in the /client directory, and one in the /server directory.\
 In both the client and server terminal window run:
 
